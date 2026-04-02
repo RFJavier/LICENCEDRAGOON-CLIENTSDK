@@ -1,3 +1,3 @@
-module github.com/RFJavier/dragoon-licence-sdk
+module github.com/RFJavier/LICENCEDRAGOON-CLIENTSDK
 
 go 1.23

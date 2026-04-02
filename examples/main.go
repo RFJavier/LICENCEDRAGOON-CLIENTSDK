@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/RFJavier/dragoon-licence-sdk/license"
+	"github.com/RFJavier/LICENCEDRAGOON-CLIENTSDK/sdk"
 )
 
 func main() {
